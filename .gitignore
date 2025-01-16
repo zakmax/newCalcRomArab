@@ -1,0 +1,29 @@
+# Скомпилированные классы
+*.class
+
+# Логи
+*.log
+
+# Директории сборки
+/build/
+bin/
+
+# Файлы IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Maven
+target/
+*.jar
+*.war
+*.ear
+
+# Eclipse
+.settings/
+.classpath
+.project
+
+# IntelliJ
+out/
